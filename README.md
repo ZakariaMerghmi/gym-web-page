@@ -1,7 +1,5 @@
 # GymZ Website
 
-![GymZ Logo](./assets/gymz-logo.png) <!-- Replace with the actual path to your logo if available -->
-
 **Description**:  
 The GymZ Website is a modern, responsive, and visually appealing website designed for a fictional gym, GymZ. It provides users with an engaging experience to explore various services, pricing plans, media galleries, and expert coaching options. Built with HTML, CSS, and JavaScript, this project is perfect for showcasing a fitness business online.
 
@@ -30,7 +28,8 @@ The GymZ Website is a modern, responsive, and visually appealing website designe
 *The homepage features a bold headline, motivational quote, and a call-to-action button for users to get started.*
 
 ### 2. Services Section
-![Services Section](./screenshots/services.png) <!-- Replace with actual screenshot path -->
+![image](https://github.com/user-attachments/assets/643c5520-9e60-4b91-9d9d-b4a8cce2f16c)
+
 *Showcases various gym services with visual icons and short descriptions.*
 
 ### 3. Pricing Plans
