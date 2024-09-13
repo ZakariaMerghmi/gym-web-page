@@ -55,7 +55,7 @@ Ensure you have a modern web browser installed (e.g., Chrome, Firefox, Safari).
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/gymz-website.git
+   git clone https://github.com/ZakariaMerghmi/gymz-website.git
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
