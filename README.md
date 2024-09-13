@@ -59,6 +59,6 @@ Ensure you have a modern web browser installed (e.g., Chrome, Firefox, Safari).
    git clone https://github.com/ZakariaMerghmi/gymz-website.git
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE][https://github.com/ZakariaMerghmi/gym-web-page/blob/main/license] file for details.
+This project is licensed under the MIT License - see the [LICENSE][./license] file for details.
 
 
