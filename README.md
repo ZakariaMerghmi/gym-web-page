@@ -26,7 +26,7 @@ The GymZ Website is a modern, responsive, and visually appealing website designe
 ## Screenshots
 
 ### 1. Home Page
-![Home Page](./screenshots/homepage.png) <!-- Replace with actual screenshot path -->
+![main page](https://github.com/user-attachments/assets/5c077839-c813-46ee-bd80-a160a14fd1a6)
 *The homepage features a bold headline, motivational quote, and a call-to-action button for users to get started.*
 
 ### 2. Services Section
