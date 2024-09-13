@@ -39,7 +39,7 @@ The GymZ Website is a modern, responsive, and visually appealing website designe
 *Three membership plans with detailed features and easy "Get Started" buttons.*
 
 ### 4. Contact Form
-![Contact Form](./screenshots/contact.png) <!-- Replace with actual screenshot path -->
+![Screenshot 2024-09-13 191826](https://github.com/user-attachments/assets/483360ad-24cd-4236-8cc5-06832c07bd98)
 *Interactive contact form for users to submit their queries directly through the website.*
 
 ## Technologies Used
