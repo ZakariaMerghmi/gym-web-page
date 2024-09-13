@@ -31,7 +31,7 @@ The GymZ Website is a modern, responsive, and visually appealing website designe
 ![image](https://github.com/user-attachments/assets/643c5520-9e60-4b91-9d9d-b4a8cce2f16c)
 
 
-![Screenshot 2024-09-13 191220](https://github.com/user-attachments/assets/84a2eee4-5a83-4046-942c-9b95a4aea03c)
+![Screenshot 2024-09-13 191707](https://github.com/user-attachments/assets/dc43f642-2983-40cf-a745-c6675f884d1d)
 *Showcases various gym services with visual icons and short descriptions.*
 
 ### 3. Pricing Plans
